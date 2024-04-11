@@ -1,4 +1,4 @@
-# Emotion Neural Transducer for Fine-Grained Speech Emotion Recognition
+# Emotion Neural Transducer for Fine-Grained Speech Emotion Recognition [[arXiv]](https://arxiv.org/abs/2403.19224)
 
 Code for ICASSP 2024 paper "Emotion Neural Transducer for Fine-Grained Speech Emotion Recognition".
 
@@ -142,3 +142,14 @@ Lattice max pooling loss is also adaptive to supervised training data. For mixin
 
 [Speech Emotion Diarization](https://github.com/BenoitWang/Speech_Emotion_Diarization) for ZED preprocessing and evaluation.
 
+## Citation
+```bibtex
+@inproceedings{shen2024emotion,
+  title={Emotion Neural Transducer for Fine-Grained Speech Emotion Recognition},
+  author={Shen, Siyuan and Gao, Yu and Liu, Feng and Wang, Hanyang and Zhou, Aimin},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={10111--10115},
+  year={2024},
+  organization={IEEE}
+}
+```
